@@ -59,11 +59,13 @@ class BinarySearchTree:
                     # no duplicate valules are allowed
                     break
 
-newtree = BinarySearchTree()
-newtree.create_node(5) # first node - root
-newtree.create_node(3) # value lesser than root - left child
-newtree.create_node(6) # value greater than root - right child
 
-print('Root -> ', newtree.root.value)
-print('Left child -> ', newtree.root.left.value)
-print('Right child -> ', newtree.root.right.value)
+''' create a new tree and print tree '''
+# newtree = BinarySearchTree()
+# newtree.create_node(5) # first node - root
+# newtree.create_node(3) # value lesser than root - left child
+# newtree.create_node(6) # value greater than root - right child
+
+# print('Root -> ', newtree.root.value)
+# print('Left child -> ', newtree.root.left.value)
+# print('Right child -> ', newtree.root.right.value)
