@@ -1,6 +1,3 @@
-import sys
-sys.path.append(r"D:\sharmi-projects\DSA_py")
-
 from trees.BinarySearchTree import BinarySearchTree
 
 def height(root):
