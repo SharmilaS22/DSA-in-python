@@ -1,3 +1,5 @@
 Data Structure - Python
 
 1. Tree
+    - node creation
+    - binary search tree creation
