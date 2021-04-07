@@ -6,4 +6,4 @@ Data Structure - Python
     - height of a bst
     - Is bst or not
     - Lowest common ancestor for two nodes
-    - Traversal - inorder, preorder, postorder
+    - Traversal in tree - inorder, preorder, postorder
