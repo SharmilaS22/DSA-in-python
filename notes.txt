@@ -4,3 +4,6 @@ Data Structure - Python
     - node creation
     - binary search tree creation
     - height of a bst
+    - Is bst or not
+    - Lowest common ancestor for two nodes
+    - Traversal - inorder, preorder, postorder

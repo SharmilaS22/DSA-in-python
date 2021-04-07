@@ -2,14 +2,8 @@
 author: Sharmila S
 Date: 06-04-2021
 
-Topic: Check whther the guven tree is a BST or not
+Topic: Check whther the given tree is a BST or not
 '''
-
-
-# local imports
-import sys
-sys.path.append(r"D:\sharmi-projects\DSA_py")
-
 
 # local imports
 from trees.BinarySearchTree import BinarySearchTree
