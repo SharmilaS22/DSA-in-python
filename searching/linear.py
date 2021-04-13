@@ -6,17 +6,18 @@ Topic: Linear Search
 '''
 
 def linear_search(values, search_for):
-    search_at = 0
-    search_res = False
 
-# Match the value with each data element	
-    while search_at < len(values) and search_res is False:
-        if values[search_at] == search_for:
-            search_res = True
-        else:
-            search_at = search_at + 1
+    flag = 0 # holds the resut
+    for i in range(0, len(values)):
+        if(values[i] == search_for): # check whether equal to given value
+            flag = 1  # elem is found
+            break     # quit the loop
+    
+    if(flag):
+        return True
+    return False
 
-    return search_res
+
 
 arr = [64, 34, 25, 12, 22, 11, 90]
 print(linear_search(arr, 12))
