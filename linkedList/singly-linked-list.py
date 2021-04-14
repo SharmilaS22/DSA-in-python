@@ -2,7 +2,7 @@
 author: Sharmila S
 Date: 13-04-2021
 
-Topic: Linkedlist creation
+Topic: Linkedlist creation, insertion, deletion, printing.
 '''
 
 class Node:
