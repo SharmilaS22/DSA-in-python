@@ -31,7 +31,7 @@ def inorderTraversal(root):
     if root:
         res = inorderTraversal(root.left)
         res.append(root.value)
-        res = res + inorderTraversal(root.right)
+        res.extend( inorderTraversal(root.right) )
     return res
 
 # Preorder traversal
