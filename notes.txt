@@ -7,3 +7,12 @@ Data Structure - Python
     - Is bst or not
     - Lowest common ancestor for two nodes
     - Traversal in tree - inorder, preorder, postorder
+
+2. LinkedList
+    - Singly linked list - creation, deletion, print
+    - Doubly LinkedList - creation, deletion, print
+    - merging two sorted arrays
+    - print in reverse order both - singly ll, doubly ll
+    - removing duplicates from ll
+    - reversing an ll
+    
