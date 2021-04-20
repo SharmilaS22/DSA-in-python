@@ -15,4 +15,5 @@ Data Structure - Python
     - print in reverse order both - singly ll, doubly ll
     - removing duplicates from ll
     - reversing an ll
-    
+
+3. stacl
