@@ -1,6 +1,9 @@
+'''
+author: Sharmila S
+Date: 20-04-2021
 
-
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+Topic: Queue using stack
+'''
 
 class Stack:
     

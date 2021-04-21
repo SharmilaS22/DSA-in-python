@@ -19,4 +19,6 @@ class Queue:
         self.rear += 1
     
     def dequeue(self):
-        self.queue
+        del self.queue[self.front]
+        self.front -= 1
+

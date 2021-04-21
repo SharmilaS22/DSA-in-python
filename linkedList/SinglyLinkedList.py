@@ -63,7 +63,6 @@ class LinkedList:
 
 
 
-# print('hello')
 # list1 = LinkedList()
 # list1.AddNode(2)
 # list1.AddNode(3)
