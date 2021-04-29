@@ -5,10 +5,7 @@ Date: 21-04-2021
 Topic: Changes to be made to form Anagram 
 '''
 
-
 # Algorithm
-
-from typing import BinaryIO
 
 
 def FindChanges(str1, str2):
