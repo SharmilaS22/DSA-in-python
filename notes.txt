@@ -6,7 +6,7 @@ Data Structure - Python
     - height of a bst
     - Is bst or not
     - Lowest common ancestor for two nodes
-    - Traversal in tree - inorder, preorder, postorder
+    - Traversal in tree - inorder, preorder, postorder, levelorder
 
 2. LinkedList
     - Singly linked list - creation, deletion, print
